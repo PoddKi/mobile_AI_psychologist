@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Внешний круг -->
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M60,10C32.4,10 10,32.4 10,60s22.4,50 50,50s50,-22.4 50,-50S87.6,10 60,10z"/>
+    <!-- Символ AI в центре -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,45 L45,75 L55,75 L55,65 L65,65 L65,75 L75,75 L75,45 L65,45 L65,55 L55,55 L55,45 Z"/>
+    <!-- Маленькая точка (круг через path) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,50m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"/>
+</vector>

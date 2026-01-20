@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern App Colors (same as light) -->
+    <color name="primary_blue">#5BA3F5</color>
+    <color name="primary_blue_dark">#357ABD</color>
+    <color name="primary_blue_light">#7BB8FF</color>
+    <color name="accent_purple">#BA68C8</color>
+    <color name="accent_green">#66BB6A</color>
+    <color name="accent_orange">#FFB74D</color>
+    <color name="accent_pink">#F48FB1</color>
+    
+    <!-- Background Colors (Dark) -->
+    <color name="background_light">#121212</color>
+    <color name="background_white">#1E1E1E</color>
+    <color name="surface_color">#1E1E1E</color>
+    <color name="surface_variant">#2C2C2C</color>
+    
+    <!-- Text Colors (Dark) -->
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#808080</color>
+    
+    <!-- Message Colors (Dark) -->
+    <color name="message_sent">#5BA3F5</color>
+    <color name="message_received">#2C2C2C</color>
+    <color name="message_sent_text">#FFFFFF</color>
+    <color name="message_received_text">#E0E0E0</color>
+    
+    <!-- Card Colors (Dark) -->
+    <color name="card_background">#2C2C2C</color>
+    <color name="card_shadow">#40000000</color>
+    
+    <!-- Status Colors (same) -->
+    <color name="success">#66BB6A</color>
+    <color name="warning">#FFB74D</color>
+    <color name="error">#EF5350</color>
+</resources>
